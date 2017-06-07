@@ -24,12 +24,12 @@
   + 如图:  
   ![npm-install-jquery](./images/npm-install-jquery.jpg)
   ![npm-install-jquery-result](./images/npm-install-jquery-result.jpg)
-  上图是安装jquery的截图, 安装bootstrap也是类似的 
+  上图是安装jquery的截图, 安装bootstrap也是类似的
 
 *注意*
 *虽然，项目文件夹/node_modules/jquery 中会有很多文件夹，其中dist文件夹中就有我们要使用的jquery.js,像往常一样在html中引入它就可以了*
 *我们看到的其他的文件夹，其实是jquery的源码,因为有些人，可能会需要使用这个源码，所以就被一起下载下来了*  
-> 强制多了一个源码这些文件，其实仔细想想并没有什么太大的坏处。
+> 虽然多了一个源码这些文件，其实仔细想想并没有什么太大的坏处。
 
 ***
 
